@@ -8,3 +8,6 @@ void main()
 getch();
 
 }
+**********o/p***
+hello world
+
