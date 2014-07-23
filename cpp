@@ -8,6 +8,6 @@ void main()
 getch();
 
 }
-**********o/p***
+akshay rokade
 hello world
 
